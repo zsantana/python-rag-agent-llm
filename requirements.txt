@@ -6,3 +6,6 @@ langchain-chroma
 langchain-community 
 langchain-openai
 chroma
+chromadb 
+langchain_chroma
+
